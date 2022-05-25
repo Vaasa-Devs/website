@@ -1,4 +1,4 @@
-h1. Welcome to Vaasa Devs website
+# Welcome to Vaasa Devs website
 
 Vaasa Devs is an informal group of all devs from Vaasa area.
 
