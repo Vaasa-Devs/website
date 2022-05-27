@@ -1,6 +1,10 @@
-# Welcome to Vaasa Devs website
+# Welcome to Vaasa Devs!
 
-Vaasa Devs is an informal group of all devs from Vaasa area.
+Vaasa Devs is an informal group for all devs from Vaasa area.
+
+Kaikki Vaasan seudun devaajat tervetuloa mukaan verkostoitumaan!
+
+Alla Vasa devs är välkomna att komma med och nätverka!
 
 Join our [slack for discussions](https://join.slack.com/t/vaasawebdev/shared_invite/zt-19xj635kw-r_c7h3iPsakDMHN9wmJcEg)
 
