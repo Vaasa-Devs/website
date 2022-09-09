@@ -12,3 +12,5 @@ Alla Vasa devs är välkomna att komma med och nätverka!
 💬 Join our [slack for discussions](https://join.slack.com/t/vaasawebdev/shared_invite/zt-19xj635kw-r_c7h3iPsakDMHN9wmJcEg)
 
 📅 We organize once in a while also [dev meetups](https://www.meetup.com/vaasawebdev/).
+
+🌍 Network in [LinkedIn group](https://www.linkedin.com/groups/9236147/)
